@@ -23,3 +23,5 @@ screen.onkey(d, "Right")
 
 screen.listen()
 turtle.done()
+
+#try adding up and down too
